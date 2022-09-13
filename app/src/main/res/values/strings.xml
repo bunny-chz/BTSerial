@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">超声波测距</string>
+    <string name="btn_scan_start">开始扫描</string>
+    <string name="btn_disconnect">断开连接</string>
+    <string name="btn_scan_bt">连接蓝牙</string>
+    <string name="btn_clear_log">清除日志</string>
+    <string name="tv_name">name</string>
+    <string name="tv_address">address</string>
+    <string name="tv_record">record</string>
+    <string name="tv_length_title">距离</string>
+    <string name="btn_unit_setting">设置单位</string>
+    <string name="tv_msg_log_title">消息日志</string>
+    <string name="full_screen_tip">请连接蓝牙设备</string>
+    <string name="clear">清除</string>
+    <string name="bt_cancel">取消</string>
+    <string name="bt_confirm">确定</string>
+    <string name="unit_edit_hint">请输入距离单位</string>
+    <string name="SaveUnitSetting">SaveUnitSetting</string>
+    <string name="tap_exit_app">再按一次退出应用</string>
+</resources>
